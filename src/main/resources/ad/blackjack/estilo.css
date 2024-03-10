@@ -1,0 +1,28 @@
+#fondo  {
+    -fx-background-image: url("Misceláneo/Captura.PNG");
+}
+
+#fondoRanking {
+    -fx-background-image: url("Misceláneo/fondoRanking.jpg");
+    -fx-background-size: cover;
+}
+
+#jugadoresRanking {
+    -fx-background-radius: 8;
+    -fx-background-color: black;
+    -fx-border-radius: 5;
+    -fx-border-color: gold;
+    -fx-border-width: 3;
+}
+
+#colDinero {
+    -fx-background-color: black;
+    -fx-alignment: center;
+    -fx-text-fill: white;
+}
+
+#colNombre {
+    -fx-background-color: black;
+    -fx-alignment: center;
+    -fx-text-fill: white;
+}
